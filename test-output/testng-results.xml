@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FunctionalSuite" duration-ms="11028" started-at="2020-09-13T05:41:47Z" finished-at="2020-09-13T05:41:58Z">
+    <groups>
+    </groups>
+    <test name="TeslaTests" duration-ms="11028" started-at="2020-09-13T05:41:47Z" finished-at="2020-09-13T05:41:58Z">
+      <class name="com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests">
+        <test-method status="PASS" signature="setUpWireMockServer()[pri:0, instance:com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests@3632be31]" name="setUpWireMockServer" is-config="true" duration-ms="1605" started-at="2020-09-13T05:41:46Z" finished-at="2020-09-13T05:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpWireMockServer -->
+        <test-method status="PASS" signature="getstubmappingsRequestAndResponseForRentalCars()[pri:0, instance:com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests@3632be31]" name="getstubmappingsRequestAndResponseForRentalCars" is-config="true" duration-ms="103" started-at="2020-09-13T05:41:47Z" finished-at="2020-09-13T05:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getstubmappingsRequestAndResponseForRentalCars -->
+        <test-method status="PASS" signature="getRequest_Returns_ListOf_AllCars()[pri:1, instance:com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests@3632be31]" name="getRequest_Returns_ListOf_AllCars" duration-ms="3294" started-at="2020-09-13T05:41:48Z" finished-at="2020-09-13T05:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_Returns_ListOf_AllCars -->
+        <test-method status="PASS" signature="getRequest_Returns_TeslaCarsWith_BlueColor_And_Notes()[pri:2, instance:com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests@3632be31]" name="getRequest_Returns_TeslaCarsWith_BlueColor_And_Notes" duration-ms="1585" started-at="2020-09-13T05:41:51Z" finished-at="2020-09-13T05:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_Returns_TeslaCarsWith_BlueColor_And_Notes -->
+        <test-method status="PASS" signature="getRequest_Returns_CarsOf_LowestPerDayRent_WithPriceAnd_WithPriceAfterDiscount()[pri:5, instance:com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests@3632be31]" name="getRequest_Returns_CarsOf_LowestPerDayRent_WithPriceAnd_WithPriceAfterDiscount" duration-ms="2590" started-at="2020-09-13T05:41:52Z" finished-at="2020-09-13T05:41:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_Returns_CarsOf_LowestPerDayRent_WithPriceAnd_WithPriceAfterDiscount -->
+        <test-method status="PASS" signature="getRequest_Returns_CarsWith_HighestRevenue_ForFullYear()[pri:6, instance:com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests@3632be31]" name="getRequest_Returns_CarsWith_HighestRevenue_ForFullYear" duration-ms="3388" started-at="2020-09-13T05:41:55Z" finished-at="2020-09-13T05:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest_Returns_CarsWith_HighestRevenue_ForFullYear -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests@3632be31]" name="teardown" is-config="true" duration-ms="17" started-at="2020-09-13T05:41:59Z" finished-at="2020-09-13T05:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.restassured.Tesla.rentalcarstests.RentalCarsTests -->
+    </test> <!-- TeslaTests -->
+  </suite> <!-- FunctionalSuite -->
+</testng-results>

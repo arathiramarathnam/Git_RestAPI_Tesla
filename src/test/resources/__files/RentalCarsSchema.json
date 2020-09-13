@@ -1,0 +1,619 @@
+{
+	"Car": [{
+			"make": "Audi",
+			"model": "A7",
+			"vin": "09AGHY64352JITEG98K",
+			"metadata": {
+				"Color": "Black",
+				"Notes": "Scratches on the front side of the car"
+			},
+			"perdayrent": {
+				"Price": 140,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2190.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 221
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T1",
+			"vin": "09AGHY64352JITEG98T",
+			"metadata": {
+				"Color": "Metallic Blue",
+				"Notes": "oil changes required"
+			},
+			"perdayrent": {
+				"Price": 150.55,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 3190.76,
+				"depreciation": 2156.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 260
+				}
+			}
+
+		},
+		{
+			"make": "Audi",
+			"model": "A6",
+			"vin": "09AGHY64352JITEG98M",
+			"metadata": {
+				"Color": "Metallic Gray",
+				"Notes": "Scratches on the left side of the car"
+			},
+			"perdayrent": {
+				"Price": 130.34,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 2180.76,
+				"depreciation": 2246.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 250
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H7",
+			"vin": "09AGHY64352JITEG98H",
+			"metadata": {
+				"Color": "Red",
+				"Notes": "Scratches on front end bumper"
+			},
+			"perdayrent": {
+				"Price": 120.15,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2180.76,
+				"depreciation": 2266.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 271
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H1",
+			"vin": "09AGHY64352JITEG98H",
+			"metadata": {
+				"Color": "White",
+				"Notes": "Brand New Honda"
+			},
+			"perdayrent": {
+				"Price": 200.95,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 3000.76,
+				"depreciation": 2236.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 291
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T3",
+			"vin": "09AGHY64352JITEG98Y",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Dent on rear end of car"
+			},
+			"perdayrent": {
+				"Price": 230.66,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3200.76,
+				"depreciation": 2216.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 321
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H2",
+			"vin": "09AGHY64352JITEG98M",
+			"metadata": {
+				"Color": "Red",
+				"Notes": "Slight Dent on rear end of car"
+			},
+			"perdayrent": {
+				"Price": 205.75,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3200.76,
+				"depreciation": 2255.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 256
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T5",
+			"vin": "09AGHY64352JITEG98P",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Scratches on right side window glasses"
+			},
+			"perdayrent": {
+				"Price": 240.75,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3190.76,
+				"depreciation": 2255.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 245
+				}
+			}
+
+		},
+		{
+			"make": "Audi",
+			"model": "A7",
+			"vin": "09AGHY64352JITEG98A",
+			"metadata": {
+				"Color": "White",
+				"Notes": "Brand new Audi"
+			},
+			"perdayrent": {
+				"Price": 245.89,
+				"Discount": 5
+			},
+			"metrics": {
+				"yoymaintenancecost": 3050.76,
+				"depreciation": 2250.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 230
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H9",
+			"vin": "09AGHY64352JITEG98Q",
+			"metadata": {
+				"Color": "Light Brown",
+				"Notes": "Dent on plates on rear end of car"
+			},
+			"perdayrent": {
+				"Price": 175.55,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3025.76,
+				"depreciation": 2256.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 200
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T5",
+			"vin": "09AGHY64352JITEG98N",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Brand New Tesla"
+			},
+			"perdayrent": {
+				"Price": 290.85,
+				"Discount": 5
+			},
+			"metrics": {
+				"yoymaintenancecost": 3190.76,
+				"depreciation": 2253.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 250
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T4",
+			"vin": "09AGHY64352JITEG98S",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Replaced front tires recently"
+			},
+			"perdayrent": {
+				"Price": 210.99,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 3105.76,
+				"depreciation": 2251.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 290
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H2",
+			"vin": "09AGHY64352JITEG98F",
+			"metadata": {
+				"Color": "Gray",
+				"Notes": "Replaced the battery of car recently"
+			},
+			"perdayrent": {
+				"Price": 285.75,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2390.76,
+				"depreciation": 2255.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 240
+				}
+			}
+
+		},
+		{
+			"make": "Audi",
+			"model": "A1",
+			"vin": "09AGHY64352JITEG98U",
+			"metadata": {
+				"Color": "Black",
+				"Notes": "Replaced left side mirror"
+			},
+			"perdayrent": {
+				"Price": 185.50,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 2199.76,
+				"depreciation": 2235.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 212
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T9",
+			"vin": "09AGHY64352JITEG98X",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Replaced front side headlights"
+			},
+			"perdayrent": {
+				"Price": 242.99,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3070.76,
+				"depreciation": 2253.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 210
+				}
+			}
+
+		},
+		{
+			"make": "Audi",
+			"model": "A9",
+			"vin": "09AGHY64352JITEG98B",
+			"metadata": {
+				"Color": "Red",
+				"Notes": "Replaced right side mirror"
+			},
+			"perdayrent": {
+				"Price": 149.55,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3045.76,
+				"depreciation": 2233.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 232
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H6",
+			"vin": "09AGHY64352JITEG98Y",
+			"metadata": {
+				"Color": "Metallic Blue",
+				"Notes": "Replaced rear side mirror"
+			},
+			"perdayrent": {
+				"Price": 232.35,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3080.76,
+				"depreciation": 2246.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 239
+				}
+			}
+
+		},
+		{
+			"make": "Audi",
+			"model": "A3",
+			"vin": "09AGHY64352JITEG98D",
+			"metadata": {
+				"Color": "White",
+				"Notes": "replaced front end headlights"
+			},
+			"perdayrent": {
+				"Price": 245.85,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 3030.76,
+				"depreciation": 2250.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 248
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H3",
+			"vin": "09AGHY64352JITEG98O",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Replaced rear end headlights"
+			},
+			"perdayrent": {
+				"Price": 239.99,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 3040.76,
+				"depreciation": 2253.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 272
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T6",
+			"vin": "09AGHY64352JITEG98J",
+			"metadata": {
+				"Color": "Blue",
+				"Notes": "Replaced left side window glasses"
+			},
+			"perdayrent": {
+				"Price": 242.80,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 3075.76,
+				"depreciation": 2243.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 283
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H2",
+			"vin": "09AGHY64352JITEG98T",
+			"metadata": {
+				"Color": "Black",
+				"Notes": "Replaced wipers"
+			},
+			"perdayrent": {
+				"Price": 150.99,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 2490.76,
+				"depreciation": 2206.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 294
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H4",
+			"vin": "09AGHY64352JITEG98V",
+			"metadata": {
+				"Color": "Dark Red",
+				"Notes": "Replaced indicators"
+			},
+			"perdayrent": {
+				"Price": 190.80,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2390.76,
+				"depreciation": 2006.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 267
+				}
+			}
+
+		},
+		{
+			"make": "Tesla",
+			"model": "T2",
+			"vin": "09AGHY64352JITEG98V",
+			"metadata": {
+				"Color": "Metallic Red",
+				"Notes": "Replaced indicators"
+			},
+			"perdayrent": {
+				"Price": 170.95,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 2590.76,
+				"depreciation": 2200.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 256
+				}
+			}
+
+		},
+		{
+			"make": "Audi",
+			"model": "A5",
+			"vin": "09AGHY64352JITEG98C",
+			"metadata": {
+				"Color": "Metallic Brown",
+				"Notes": "Replaced wipers"
+			},
+			"perdayrent": {
+				"Price": 150.60,
+				"Discount": 10
+			},
+			"metrics": {
+				"yoymaintenancecost": 2490.76,
+				"depreciation": 2206.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 235
+				}
+			}
+
+		},
+		{
+			"make": "Honda",
+			"model": "H2",
+			"vin": "09AGHY64352JITEG98T",
+			"metadata": {
+				"Color": "Silver Metallic",
+				"Notes": "Oxygen Sensor Replacements"
+			},
+			"perdayrent": {
+				"Price": 155.99,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2690.76,
+				"depreciation": 2296.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 223
+				}
+			}
+
+		},
+				{
+			"make": "Audi",
+			"model": "A4",
+			"vin": "09AGHY64352JITEG98P",
+			"metadata": {
+				"Color": "Metallic Red",
+				"Notes": "Battery Replacement"
+			},
+			"perdayrent": {
+				"Price": 195.50,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2790.76,
+				"depreciation": 2096.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 216
+				}
+			}
+
+		},
+				{
+			"make": "Tesla",
+			"model": "T7",
+			"vin": "09AGHY64352JITEG98C",
+			"metadata": {
+				"Color": "Red",
+				"Notes": "Dent on Bumper on front end of car"
+			},
+			"perdayrent": {
+				"Price": 255.75,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 2990.76,
+				"depreciation": 2226.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 204
+				}
+			}
+
+		},
+				{
+			"make": "Honda",
+			"model": "H5",
+			"vin": "09AGHY64352JITEG98Z",
+			"metadata": {
+				"Color": "Metallic Brown",
+				"Notes": "Indicators Replacements"
+			},
+			"perdayrent": {
+				"Price": 215.99,
+				"Discount": 15
+			},
+			"metrics": {
+				"yoymaintenancecost": 3090.76,
+				"depreciation": 2076.43,
+				"rentalcount": {
+					"lastweek": 4,
+					"yeartodate": 259
+				}
+			}
+
+		}
+	]
+}
